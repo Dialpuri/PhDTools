@@ -10,12 +10,28 @@ To install:
     pip install -e .
 ```
 
-Tools (non-exhaustive list):
+Tools:
 
-Fetch a PDB file:
+`pdbfetch` - Fetch PDB file  
 
-`pdbfetch 1hr2`
+`sffetch` - Fetch structure factor file
 
-Remove all non-protein/nucleic acid atoms and refine (will download data for you):
+`completeness` - Calculate nucleic acid completeness
 
-`createdeglyco 5fji`
+`removena` - Remove nucleic acids
+
+`removewaters` - Remove waters
+
+`removeglycans` - Remove glycans 
+
+`createmr` - Create nucleic acid free MTZ and CIF
+
+`createdeglyco` - Create glycan free MTZ and CIF
+
+`createdeglycowater` - Create glycan and water free MTZ and CIF
+
+`createmtz` - Create MTZ file
+
+`linebreaker` - Remove linebreaks in text
+
+`cropper` - Batch crop images (useful for figure making)
