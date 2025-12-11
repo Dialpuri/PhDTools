@@ -10,7 +10,10 @@ To install:
     pip install -e .
 ```
 
-Tools:
+## Tools:
+
+
+### Terminal 
 
 `pdbfetch` - Fetch PDB file  
 
@@ -31,6 +34,8 @@ Tools:
 `createdeglycowater` - Create glycan and water free MTZ and CIF
 
 `createmtz` - Create MTZ file
+
+### GUI 
 
 `linebreaker` - Remove linebreaks in text
 
