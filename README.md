@@ -14,7 +14,7 @@ Tools (non-exhaustive list):
 
 Fetch a PDB file:
 
-`fetch 1hr2`
+`pdbfetch 1hr2`
 
 Remove all non-protein/nucleic acid atoms and refine (will download data for you):
 

@@ -8,7 +8,8 @@ setup(
     entry_points={
         'console_scripts': [
         'pdbfetch=phdtools.pdbfetch:main',
-	    'completeness=phdtools.completeness:_main',
+        'sffetch=phdtools.sffetch:main',
+        'completeness=phdtools.completeness:_main',
         'removena=phdtools.remove_na:main',
         'removewaters=phdtools.remove_waters:main',
         'removeglycans=phdtools.remove_glycans:main',
