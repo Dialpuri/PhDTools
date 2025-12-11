@@ -1,6 +1,6 @@
 # PhDTools
 
-A collection of tools I made to speed up common operations. Some tools require you to have sourced CCP4.
+A collection of tools I made to speed up common operations. Some tools require you to have sourced CCP4. If things don't work I will try and help but support is not guaranteed. 
 
 To install:
 
