@@ -1,1 +1,21 @@
 # PhDTools
+
+A collection of tools I made to speed up common operations.
+
+To install:
+
+```
+    git clone https://github.com/Dialpuri/PhDTools
+    cd PhDTools
+    pip install -e .
+```
+
+Tools (non-exhaustive list):
+
+Fetch a PDB file:
+
+`fetch 1hr2`
+
+Remove all non-protein/nucleic acid atoms and refine (will download data for you):
+
+`createdeglyco 5fji`
